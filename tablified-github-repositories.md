@@ -1,7 +1,7 @@
 #Table of muli-page web presence projects
 
 | Lead dev.  | Github repository                                                | PR                                                          | Live page                                   | Notes   |
-|------------|------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|---------|
+|------------|------------------------------------------------------------------|:-----------------------------------------------------------:|---------------------------------------------|---------|
 | Mike D.    | [thisboigamer](//github.com/thisboigamer/thisboigamer.github.io) | [0](//github.com/thisboigamer/thisboigamer.github.io/pulls) | | |
 | Xi R.      | [cicirao](//github.com/cicirao/fyl)                              | [0](//github.com/cicirao/fyl/pulls)                         | | |
 | Dan M.     | [thedanmartin](//github.com/thedanmartin/expanded-web-presence)  | [1](//github.com/thedanmartin/expanded-web-presence/pulls)  | | |
