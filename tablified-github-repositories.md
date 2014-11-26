@@ -12,4 +12,6 @@
 | Josh H.    | [jhignight/jhignight.github.io](//github.com/jhignight/jhignight.github.io)                     | [0](//github.com/jhignight/jhignight.github.io/pulls)       | | |
 | Jodi H.    | [Houlihan5/ChicagoInnovationChase](//github.com/Houlihan5/ChicagoInnovationChase/tree/gh-pages) | [1](//github.com/Houlihan5/ChicagoInnovationChase/pulls)    | | |
 
-* &lsquo;PR&rsquo; = Number of pull requests as of 25-Nov-14
+* &lsquo;[PR][1]&rsquo; = Number of pull requests as of 25-Nov-14
+
+[1]: https://ton.twitter.com/i/ton/data/dm/535174022921990145/535174022934564865/Kvy0k0bU.png
