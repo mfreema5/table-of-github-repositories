@@ -8,7 +8,7 @@
 | Bing X.    | [xbim1810/xbim1810.github.io](//github.com/xbim1810/xbim1810.github.io)                         | [1](//github.com/xbim1810/xbim1810.github.io/pulls)         | | |
 | Mike F.    | [mfreema5/tawp](//github.com/mfreema5/tawp)                                                     | [0](//github.com/mfreema5/tawp/pulls)                       | [www.freeman.blue](http://www.freeman.blue) | Want to help?  See: [ToDo.md](//github.com/mfreema5/tawp/blob/master/ToDo.md) |
 | Richard C. | [rclegg/ewp](//github.com/rclegg/ewp)                                                           | [0](//github.com/rclegg/ewp/pulls)                          | | |
-| Ally W.    | [awarf/test](//github.com/awarf/test/tree/gh-pages)                                             | [0](//github.com/awarf/test/tree/gh-pages/pulls)            | | |
+| Ally W.    | [awarf/test](//github.com/awarf/test/tree/gh-pages)                                             | [0](//github.com/awarf/test/pulls)                          | | |
 | Josh H.    | [jhignight/jhignight.github.io](//github.com/jhignight/jhignight.github.io)                     | [0](//github.com/jhignight/jhignight.github.io/pulls)       | | |
 | Jodi H.    | [Houlihan5/ChicagoInnovationChase](//github.com/Houlihan5/ChicagoInnovationChase/tree/gh-pages) | [1](//github.com/Houlihan5/ChicagoInnovationChase/pulls)    | | |
 
